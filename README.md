@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 
-**Course Date:** DD.MM.YYYY  
+**Course Date:** 12.03.2021 
 **Name:** Mustafa Ali  
 **Surname:** Önder  
 **Email:** mstfalionder@gmail.com  
